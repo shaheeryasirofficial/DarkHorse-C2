@@ -66,8 +66,7 @@ This project is licensed under the **MIT License**. See `LICENSE` for full terms
 ### 📧 Contact
 
 For collaboration or security research inquiries (authorized environments only):  
-**Maintainer:** `maintainer@example.com`  
-**Security Contact:** `security@example.com`
+**Maintainer:** `shaheeryasirx1@gmail.com`  
 
 ---
 
