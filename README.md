@@ -10,16 +10,12 @@ and operator experience at its core.
 
 ## Features
 
-- **Async C2 communication** — HTTP/S, DNS, and custom protocol listeners
-- **Modular implant architecture** — load only what the operation requires
-- **Operator collaboration** — multi-user teamserver with role-based access
-- **OPSEC-first design** — malleable traffic profiles, staged payloads, sleep/jitter controls
-- **Extensible** — write your own modules, listeners, and post-ex capabilities
+- **Async C2 communication** HTTP/S, DNS, and custom protocol listeners
+- **Modular implant architecture** load only what the operation requires
+- **Operator collaboration** multi-user teamserver with role-based access
+- **OPSEC-first design** malleable traffic profiles, staged payloads, sleep/jitter controls
+- **Extensible** write your own modules, listeners, and post-ex capabilities
 
 ## Status
 
-🔴 Active development — not production ready.
-
-## Built by
-
-[Your handle] — Offensive Security Analyst @ Pwned Labs
+🔴 Active development not production ready.
