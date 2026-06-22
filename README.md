@@ -6,7 +6,7 @@
 
 ## Status
 
-🔴 Active development — not production ready. No stable release yet.
+🔴 Active development not production ready. No stable release yet.
 
 ## Overview
 
@@ -14,11 +14,11 @@ DarkHorse C2 is a post-exploitation framework designed for professional red team
 
 ## Planned Features
 
-- **Async C2 communication** — HTTP/S, DNS, and custom protocol listeners
-- **Modular implant architecture** — load only what the operation requires
-- **Operator collaboration** — multi-user teamserver with role-based access
-- **OPSEC-first design** — malleable traffic profiles, staged payloads, sleep/jitter controls
-- **Extensible** — write your own modules, listeners, and post-ex capabilities
+- **Async C2 communication** HTTP/S, DNS, and custom protocol listeners
+- **Modular implant architecture** load only what the operation requires
+- **Operator collaboration** multi-user teamserver with role-based access
+- **OPSEC-first design** malleable traffic profiles, staged payloads
+- **Extensible** write your own modules, listeners, and post-ex capabilities
 
 ## Roadmap
 
@@ -31,4 +31,4 @@ DarkHorse C2 is a post-exploitation framework designed for professional red team
 
 ## Contributing
 
-Not open for contributions yet. Follow for updates.
+Follow for updates.
