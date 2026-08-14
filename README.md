@@ -1,4 +1,4 @@
-# DarkHorse C2
+# DarkHorse
 
 ![DarkHorse C2](image.png)
 
