@@ -1,6 +1,6 @@
 # DarkHorse
 
-![DarkHorse C2](image.png)
+![DarkHorse C2](image.jpg)
 
 > A modern, modular Command & Control framework built for adversary simulation and red team operations.
 
